@@ -1,0 +1,12 @@
+h2 {
+  font-style: italic;
+}
+
+.jumbotron img {
+  width: 100%;
+}
+
+.bg-warning {
+  margin: 5px;
+  padding: 10px;
+}
